@@ -1,0 +1,1792 @@
+﻿[
+  {
+    "timestamp": "2025-11-11 00:00:00",
+    "volume": 986,
+    "sentiment": {
+      "bullish": 167,
+      "bearish": 109,
+      "neutral": 710
+    },
+    "price": 3415.28
+  },
+  {
+    "timestamp": "2025-11-12 00:00:00",
+    "volume": 1122,
+    "sentiment": {
+      "bullish": 178,
+      "bearish": 81,
+      "neutral": 863
+    },
+    "price": 3413.09
+  },
+  {
+    "timestamp": "2025-11-13 00:00:00",
+    "volume": 1421,
+    "sentiment": {
+      "bullish": 200,
+      "bearish": 120,
+      "neutral": 1101
+    },
+    "price": 3232.76
+  },
+  {
+    "timestamp": "2025-11-14 00:00:00",
+    "volume": 1162,
+    "sentiment": {
+      "bullish": 159,
+      "bearish": 143,
+      "neutral": 860
+    },
+    "price": 3103.79
+  },
+  {
+    "timestamp": "2025-11-15 00:00:00",
+    "volume": 952,
+    "sentiment": {
+      "bullish": 188,
+      "bearish": 72,
+      "neutral": 692
+    },
+    "price": 3166.63
+  },
+  {
+    "timestamp": "2025-11-16 00:00:00",
+    "volume": 1070,
+    "sentiment": {
+      "bullish": 178,
+      "bearish": 102,
+      "neutral": 790
+    },
+    "price": 3092.85
+  },
+  {
+    "timestamp": "2025-11-17 00:00:00",
+    "volume": 1339,
+    "sentiment": {
+      "bullish": 159,
+      "bearish": 143,
+      "neutral": 1037
+    },
+    "price": 3024.54
+  },
+  {
+    "timestamp": "2025-11-18 00:00:00",
+    "volume": 1148,
+    "sentiment": {
+      "bullish": 198,
+      "bearish": 100,
+      "neutral": 850
+    },
+    "price": 3122.98
+  },
+  {
+    "timestamp": "2025-11-19 00:00:00",
+    "volume": 1342,
+    "sentiment": {
+      "bullish": 194,
+      "bearish": 103,
+      "neutral": 1045
+    },
+    "price": 3023.07
+  },
+  {
+    "timestamp": "2025-11-20 00:00:00",
+    "volume": 1284,
+    "sentiment": {
+      "bullish": 147,
+      "bearish": 127,
+      "neutral": 1010
+    },
+    "price": 2831.78
+  },
+  {
+    "timestamp": "2025-11-21 00:00:00",
+    "volume": 1328,
+    "sentiment": {
+      "bullish": 146,
+      "bearish": 135,
+      "neutral": 1047
+    },
+    "price": 2765.7
+  },
+  {
+    "timestamp": "2025-11-22 00:00:00",
+    "volume": 951,
+    "sentiment": {
+      "bullish": 153,
+      "bearish": 49,
+      "neutral": 749
+    },
+    "price": 2767.61
+  },
+  {
+    "timestamp": "2025-11-23 00:00:00",
+    "volume": 961,
+    "sentiment": {
+      "bullish": 236,
+      "bearish": 20,
+      "neutral": 705
+    },
+    "price": 2801.68
+  },
+  {
+    "timestamp": "2025-11-24 00:00:00",
+    "volume": 1116,
+    "sentiment": {
+      "bullish": 225,
+      "bearish": 53,
+      "neutral": 838
+    },
+    "price": 2952.71
+  },
+  {
+    "timestamp": "2025-11-25 00:00:00",
+    "volume": 1044,
+    "sentiment": {
+      "bullish": 194,
+      "bearish": 37,
+      "neutral": 813
+    },
+    "price": 2957.94
+  },
+  {
+    "timestamp": "2025-11-26 00:00:00",
+    "volume": 1205,
+    "sentiment": {
+      "bullish": 259,
+      "bearish": 33,
+      "neutral": 913
+    },
+    "price": 3027.81
+  },
+  {
+    "timestamp": "2025-11-27 00:00:00",
+    "volume": 1049,
+    "sentiment": {
+      "bullish": 244,
+      "bearish": 28,
+      "neutral": 777
+    },
+    "price": 3014.54
+  },
+  {
+    "timestamp": "2025-11-28 00:00:00",
+    "volume": 1105,
+    "sentiment": {
+      "bullish": 225,
+      "bearish": 32,
+      "neutral": 848
+    },
+    "price": 3032.3
+  },
+  {
+    "timestamp": "2025-11-29 00:00:00",
+    "volume": 762,
+    "sentiment": {
+      "bullish": 110,
+      "bearish": 60,
+      "neutral": 592
+    },
+    "price": 2991.69
+  },
+  {
+    "timestamp": "2025-11-30 00:00:00",
+    "volume": 926,
+    "sentiment": {
+      "bullish": 139,
+      "bearish": 76,
+      "neutral": 711
+    },
+    "price": 2992.11
+  },
+  {
+    "timestamp": "2025-12-01 00:00:00",
+    "volume": 1293,
+    "sentiment": {
+      "bullish": 185,
+      "bearish": 132,
+      "neutral": 976
+    },
+    "price": 2800.19
+  },
+  {
+    "timestamp": "2025-12-02 00:00:00",
+    "volume": 1308,
+    "sentiment": {
+      "bullish": 322,
+      "bearish": 46,
+      "neutral": 940
+    },
+    "price": 2997.94
+  },
+  {
+    "timestamp": "2025-12-03 00:00:00",
+    "volume": 1444,
+    "sentiment": {
+      "bullish": 405,
+      "bearish": 35,
+      "neutral": 1004
+    },
+    "price": 3191.57
+  },
+  {
+    "timestamp": "2025-12-04 00:00:00",
+    "volume": 1123,
+    "sentiment": {
+      "bullish": 213,
+      "bearish": 45,
+      "neutral": 865
+    },
+    "price": 3134.32
+  },
+  {
+    "timestamp": "2025-12-05 00:00:00",
+    "volume": 1030,
+    "sentiment": {
+      "bullish": 116,
+      "bearish": 81,
+      "neutral": 833
+    },
+    "price": 3024.43
+  },
+  {
+    "timestamp": "2025-12-06 00:00:00",
+    "volume": 872,
+    "sentiment": {
+      "bullish": 126,
+      "bearish": 57,
+      "neutral": 689
+    },
+    "price": 3040.21
+  },
+  {
+    "timestamp": "2025-12-07 00:00:00",
+    "volume": 985,
+    "sentiment": {
+      "bullish": 217,
+      "bearish": 46,
+      "neutral": 722
+    },
+    "price": 3061.3
+  },
+  {
+    "timestamp": "2025-12-08 00:00:00",
+    "volume": 1096,
+    "sentiment": {
+      "bullish": 239,
+      "bearish": 40,
+      "neutral": 817
+    },
+    "price": 3125.2
+  },
+  {
+    "timestamp": "2025-12-09 00:00:00",
+    "volume": 1195,
+    "sentiment": {
+      "bullish": 224,
+      "bearish": 51,
+      "neutral": 920
+    },
+    "price": 3321.11
+  },
+  {
+    "timestamp": "2025-12-10 00:00:00",
+    "volume": 1307,
+    "sentiment": {
+      "bullish": 257,
+      "bearish": 62,
+      "neutral": 988
+    },
+    "price": 3325.39
+  },
+  {
+    "timestamp": "2025-12-11 00:00:00",
+    "volume": 1038,
+    "sentiment": {
+      "bullish": 140,
+      "bearish": 91,
+      "neutral": 807
+    },
+    "price": 3237.06
+  },
+  {
+    "timestamp": "2025-12-12 00:00:00",
+    "volume": 1041,
+    "sentiment": {
+      "bullish": 158,
+      "bearish": 69,
+      "neutral": 814
+    },
+    "price": 3084.17
+  },
+  {
+    "timestamp": "2025-12-13 00:00:00",
+    "volume": 883,
+    "sentiment": {
+      "bullish": 152,
+      "bearish": 60,
+      "neutral": 671
+    },
+    "price": 3116.7
+  },
+  {
+    "timestamp": "2025-12-14 00:00:00",
+    "volume": 873,
+    "sentiment": {
+      "bullish": 124,
+      "bearish": 77,
+      "neutral": 672
+    },
+    "price": 3060.59
+  },
+  {
+    "timestamp": "2025-12-15 00:00:00",
+    "volume": 1167,
+    "sentiment": {
+      "bullish": 167,
+      "bearish": 93,
+      "neutral": 907
+    },
+    "price": 2964.18
+  },
+  {
+    "timestamp": "2025-12-16 00:00:00",
+    "volume": 976,
+    "sentiment": {
+      "bullish": 118,
+      "bearish": 77,
+      "neutral": 781
+    },
+    "price": 2964.18
+  },
+  {
+    "timestamp": "2025-12-17 00:00:00",
+    "volume": 959,
+    "sentiment": {
+      "bullish": 131,
+      "bearish": 95,
+      "neutral": 733
+    },
+    "price": 2831.4
+  },
+  {
+    "timestamp": "2025-12-18 00:00:00",
+    "volume": 1064,
+    "sentiment": {
+      "bullish": 145,
+      "bearish": 80,
+      "neutral": 839
+    },
+    "price": 2827.07
+  },
+  {
+    "timestamp": "2025-12-19 00:00:00",
+    "volume": 1024,
+    "sentiment": {
+      "bullish": 166,
+      "bearish": 33,
+      "neutral": 825
+    },
+    "price": 2977.97
+  },
+  {
+    "timestamp": "2025-12-20 00:00:00",
+    "volume": 757,
+    "sentiment": {
+      "bullish": 122,
+      "bearish": 29,
+      "neutral": 606
+    },
+    "price": 2977.58
+  },
+  {
+    "timestamp": "2025-12-21 00:00:00",
+    "volume": 839,
+    "sentiment": {
+      "bullish": 142,
+      "bearish": 45,
+      "neutral": 652
+    },
+    "price": 3001.61
+  },
+  {
+    "timestamp": "2025-12-22 00:00:00",
+    "volume": 982,
+    "sentiment": {
+      "bullish": 182,
+      "bearish": 33,
+      "neutral": 767
+    },
+    "price": 3006.07
+  },
+  {
+    "timestamp": "2025-12-23 00:00:00",
+    "volume": 871,
+    "sentiment": {
+      "bullish": 102,
+      "bearish": 62,
+      "neutral": 707
+    },
+    "price": 2963.37
+  },
+  {
+    "timestamp": "2025-12-24 00:00:00",
+    "volume": 791,
+    "sentiment": {
+      "bullish": 119,
+      "bearish": 34,
+      "neutral": 638
+    },
+    "price": 2945.59
+  },
+  {
+    "timestamp": "2025-12-25 00:00:00",
+    "volume": 848,
+    "sentiment": {
+      "bullish": 163,
+      "bearish": 35,
+      "neutral": 650
+    },
+    "price": 2903.58
+  },
+  {
+    "timestamp": "2025-12-26 00:00:00",
+    "volume": 870,
+    "sentiment": {
+      "bullish": 124,
+      "bearish": 48,
+      "neutral": 698
+    },
+    "price": 2925.75
+  },
+  {
+    "timestamp": "2025-12-27 00:00:00",
+    "volume": 755,
+    "sentiment": {
+      "bullish": 134,
+      "bearish": 23,
+      "neutral": 598
+    },
+    "price": 2948.0
+  },
+  {
+    "timestamp": "2025-12-28 00:00:00",
+    "volume": 796,
+    "sentiment": {
+      "bullish": 139,
+      "bearish": 19,
+      "neutral": 638
+    },
+    "price": 2948.57
+  },
+  {
+    "timestamp": "2025-12-29 00:00:00",
+    "volume": 912,
+    "sentiment": {
+      "bullish": 150,
+      "bearish": 42,
+      "neutral": 720
+    },
+    "price": 2934.54
+  },
+  {
+    "timestamp": "2025-12-30 00:00:00",
+    "volume": 850,
+    "sentiment": {
+      "bullish": 150,
+      "bearish": 30,
+      "neutral": 670
+    },
+    "price": 2971.42
+  },
+  {
+    "timestamp": "2025-12-31 00:00:00",
+    "volume": 826,
+    "sentiment": {
+      "bullish": 130,
+      "bearish": 28,
+      "neutral": 668
+    },
+    "price": 2967.04
+  },
+  {
+    "timestamp": "2026-01-01 00:00:00",
+    "volume": 679,
+    "sentiment": {
+      "bullish": 135,
+      "bearish": 34,
+      "neutral": 510
+    },
+    "price": 3000.39
+  },
+  {
+    "timestamp": "2026-01-02 00:00:00",
+    "volume": 984,
+    "sentiment": {
+      "bullish": 220,
+      "bearish": 30,
+      "neutral": 734
+    },
+    "price": 3124.42
+  },
+  {
+    "timestamp": "2026-01-03 00:00:00",
+    "volume": 902,
+    "sentiment": {
+      "bullish": 200,
+      "bearish": 46,
+      "neutral": 656
+    },
+    "price": 3125.92
+  },
+  {
+    "timestamp": "2026-01-04 00:00:00",
+    "volume": 921,
+    "sentiment": {
+      "bullish": 230,
+      "bearish": 30,
+      "neutral": 661
+    },
+    "price": 3140.71
+  },
+  {
+    "timestamp": "2026-01-05 00:00:00",
+    "volume": 1115,
+    "sentiment": {
+      "bullish": 279,
+      "bearish": 46,
+      "neutral": 790
+    },
+    "price": 3226.13
+  },
+  {
+    "timestamp": "2026-01-06 00:00:00",
+    "volume": 983,
+    "sentiment": {
+      "bullish": 175,
+      "bearish": 48,
+      "neutral": 760
+    },
+    "price": 3295.95
+  },
+  {
+    "timestamp": "2026-01-07 00:00:00",
+    "volume": 840,
+    "sentiment": {
+      "bullish": 138,
+      "bearish": 47,
+      "neutral": 655
+    },
+    "price": 3166.84
+  },
+  {
+    "timestamp": "2026-01-08 00:00:00",
+    "volume": 914,
+    "sentiment": {
+      "bullish": 138,
+      "bearish": 71,
+      "neutral": 705
+    },
+    "price": 3104.38
+  },
+  {
+    "timestamp": "2026-01-09 00:00:00",
+    "volume": 729,
+    "sentiment": {
+      "bullish": 107,
+      "bearish": 51,
+      "neutral": 571
+    },
+    "price": 3083.05
+  },
+  {
+    "timestamp": "2026-01-10 00:00:00",
+    "volume": 593,
+    "sentiment": {
+      "bullish": 87,
+      "bearish": 27,
+      "neutral": 479
+    },
+    "price": 3082.4
+  },
+  {
+    "timestamp": "2026-01-11 00:00:00",
+    "volume": 789,
+    "sentiment": {
+      "bullish": 126,
+      "bearish": 17,
+      "neutral": 646
+    },
+    "price": 3118.89
+  },
+  {
+    "timestamp": "2026-01-12 00:00:00",
+    "volume": 913,
+    "sentiment": {
+      "bullish": 122,
+      "bearish": 44,
+      "neutral": 747
+    },
+    "price": 3092.33
+  },
+  {
+    "timestamp": "2026-01-13 00:00:00",
+    "volume": 1026,
+    "sentiment": {
+      "bullish": 185,
+      "bearish": 29,
+      "neutral": 812
+    },
+    "price": 3322.1
+  },
+  {
+    "timestamp": "2026-01-14 00:00:00",
+    "volume": 1211,
+    "sentiment": {
+      "bullish": 185,
+      "bearish": 41,
+      "neutral": 985
+    },
+    "price": 3354.72
+  },
+  {
+    "timestamp": "2026-01-15 00:00:00",
+    "volume": 1070,
+    "sentiment": {
+      "bullish": 159,
+      "bearish": 41,
+      "neutral": 870
+    },
+    "price": 3317.1
+  },
+  {
+    "timestamp": "2026-01-16 00:00:00",
+    "volume": 1062,
+    "sentiment": {
+      "bullish": 133,
+      "bearish": 47,
+      "neutral": 882
+    },
+    "price": 3295.48
+  },
+  {
+    "timestamp": "2026-01-17 00:00:00",
+    "volume": 1022,
+    "sentiment": {
+      "bullish": 146,
+      "bearish": 30,
+      "neutral": 846
+    },
+    "price": 3308.86
+  },
+  {
+    "timestamp": "2026-01-18 00:00:00",
+    "volume": 1179,
+    "sentiment": {
+      "bullish": 146,
+      "bearish": 62,
+      "neutral": 971
+    },
+    "price": 3281.16
+  },
+  {
+    "timestamp": "2026-01-19 00:00:00",
+    "volume": 1062,
+    "sentiment": {
+      "bullish": 124,
+      "bearish": 97,
+      "neutral": 841
+    },
+    "price": 3186.62
+  },
+  {
+    "timestamp": "2026-01-20 00:00:00",
+    "volume": 1199,
+    "sentiment": {
+      "bullish": 109,
+      "bearish": 124,
+      "neutral": 966
+    },
+    "price": 2935.61
+  },
+  {
+    "timestamp": "2026-01-21 00:00:00",
+    "volume": 1100,
+    "sentiment": {
+      "bullish": 166,
+      "bearish": 97,
+      "neutral": 837
+    },
+    "price": 2978.9
+  },
+  {
+    "timestamp": "2026-01-22 00:00:00",
+    "volume": 953,
+    "sentiment": {
+      "bullish": 154,
+      "bearish": 51,
+      "neutral": 748
+    },
+    "price": 2949.63
+  },
+  {
+    "timestamp": "2026-01-23 00:00:00",
+    "volume": 938,
+    "sentiment": {
+      "bullish": 131,
+      "bearish": 43,
+      "neutral": 764
+    },
+    "price": 2953.26
+  },
+  {
+    "timestamp": "2026-01-24 00:00:00",
+    "volume": 841,
+    "sentiment": {
+      "bullish": 90,
+      "bearish": 22,
+      "neutral": 729
+    },
+    "price": 2948.74
+  },
+  {
+    "timestamp": "2026-01-25 00:00:00",
+    "volume": 967,
+    "sentiment": {
+      "bullish": 99,
+      "bearish": 118,
+      "neutral": 750
+    },
+    "price": 2815.9
+  },
+  {
+    "timestamp": "2026-01-26 00:00:00",
+    "volume": 1144,
+    "sentiment": {
+      "bullish": 188,
+      "bearish": 82,
+      "neutral": 874
+    },
+    "price": 2926.46
+  },
+  {
+    "timestamp": "2026-01-27 00:00:00",
+    "volume": 1014,
+    "sentiment": {
+      "bullish": 198,
+      "bearish": 62,
+      "neutral": 754
+    },
+    "price": 3022.21
+  },
+  {
+    "timestamp": "2026-01-28 00:00:00",
+    "volume": 1064,
+    "sentiment": {
+      "bullish": 155,
+      "bearish": 26,
+      "neutral": 883
+    },
+    "price": 3006.61
+  },
+  {
+    "timestamp": "2026-01-29 00:00:00",
+    "volume": 1159,
+    "sentiment": {
+      "bullish": 121,
+      "bearish": 122,
+      "neutral": 916
+    },
+    "price": 2818.23
+  },
+  {
+    "timestamp": "2026-01-30 00:00:00",
+    "volume": 1035,
+    "sentiment": {
+      "bullish": 137,
+      "bearish": 104,
+      "neutral": 794
+    },
+    "price": 2702.38
+  },
+  {
+    "timestamp": "2026-01-31 00:00:00",
+    "volume": 1426,
+    "sentiment": {
+      "bullish": 151,
+      "bearish": 177,
+      "neutral": 1098
+    },
+    "price": 2445.09
+  },
+  {
+    "timestamp": "2026-02-01 00:00:00",
+    "volume": 1265,
+    "sentiment": {
+      "bullish": 94,
+      "bearish": 143,
+      "neutral": 1028
+    },
+    "price": 2267.96
+  },
+  {
+    "timestamp": "2026-02-02 00:00:00",
+    "volume": 1151,
+    "sentiment": {
+      "bullish": 145,
+      "bearish": 64,
+      "neutral": 942
+    },
+    "price": 2344.36
+  },
+  {
+    "timestamp": "2026-02-03 00:00:00",
+    "volume": 1229,
+    "sentiment": {
+      "bullish": 155,
+      "bearish": 96,
+      "neutral": 978
+    },
+    "price": 2227.56
+  },
+  {
+    "timestamp": "2026-02-04 00:00:00",
+    "volume": 1298,
+    "sentiment": {
+      "bullish": 157,
+      "bearish": 125,
+      "neutral": 1016
+    },
+    "price": 2143.5
+  },
+  {
+    "timestamp": "2026-02-05 00:00:00",
+    "volume": 1666,
+    "sentiment": {
+      "bullish": 137,
+      "bearish": 189,
+      "neutral": 1340
+    },
+    "price": 1821.68
+  },
+  {
+    "timestamp": "2026-02-06 00:00:00",
+    "volume": 1334,
+    "sentiment": {
+      "bullish": 209,
+      "bearish": 105,
+      "neutral": 1020
+    },
+    "price": 2063.39
+  },
+  {
+    "timestamp": "2026-02-07 00:00:00",
+    "volume": 1213,
+    "sentiment": {
+      "bullish": 198,
+      "bearish": 63,
+      "neutral": 952
+    },
+    "price": 2090.55
+  },
+  {
+    "timestamp": "2026-02-08 00:00:00",
+    "volume": 1106,
+    "sentiment": {
+      "bullish": 242,
+      "bearish": 55,
+      "neutral": 809
+    },
+    "price": 2088.76
+  },
+  {
+    "timestamp": "2026-02-09 00:00:00",
+    "volume": 1254,
+    "sentiment": {
+      "bullish": 200,
+      "bearish": 85,
+      "neutral": 969
+    },
+    "price": 2103.57
+  },
+  {
+    "timestamp": "2026-02-10 00:00:00",
+    "volume": 1066,
+    "sentiment": {
+      "bullish": 140,
+      "bearish": 96,
+      "neutral": 830
+    },
+    "price": 2019.5
+  },
+  {
+    "timestamp": "2026-02-11 00:00:00",
+    "volume": 1149,
+    "sentiment": {
+      "bullish": 211,
+      "bearish": 100,
+      "neutral": 838
+    },
+    "price": 1940.62
+  },
+  {
+    "timestamp": "2026-02-12 00:00:00",
+    "volume": 1164,
+    "sentiment": {
+      "bullish": 180,
+      "bearish": 98,
+      "neutral": 886
+    },
+    "price": 1946.94
+  },
+  {
+    "timestamp": "2026-02-13 00:00:00",
+    "volume": 1126,
+    "sentiment": {
+      "bullish": 198,
+      "bearish": 56,
+      "neutral": 872
+    },
+    "price": 2048.53
+  },
+  {
+    "timestamp": "2026-02-14 00:00:00",
+    "volume": 981,
+    "sentiment": {
+      "bullish": 191,
+      "bearish": 69,
+      "neutral": 721
+    },
+    "price": 2086.01
+  },
+  {
+    "timestamp": "2026-02-15 00:00:00",
+    "volume": 1840,
+    "sentiment": {
+      "bullish": 128,
+      "bearish": 77,
+      "neutral": 1635
+    },
+    "price": 1966.04
+  },
+  {
+    "timestamp": "2026-02-16 00:00:00",
+    "volume": 1385,
+    "sentiment": {
+      "bullish": 159,
+      "bearish": 81,
+      "neutral": 1145
+    },
+    "price": 1997.92
+  },
+  {
+    "timestamp": "2026-02-17 00:00:00",
+    "volume": 1291,
+    "sentiment": {
+      "bullish": 157,
+      "bearish": 72,
+      "neutral": 1062
+    },
+    "price": 1992.19
+  },
+  {
+    "timestamp": "2026-02-18 00:00:00",
+    "volume": 1371,
+    "sentiment": {
+      "bullish": 172,
+      "bearish": 139,
+      "neutral": 1060
+    },
+    "price": 1953.97
+  },
+  {
+    "timestamp": "2026-02-19 00:00:00",
+    "volume": 1256,
+    "sentiment": {
+      "bullish": 157,
+      "bearish": 179,
+      "neutral": 920
+    },
+    "price": 1948.2
+  },
+  {
+    "timestamp": "2026-02-20 00:00:00",
+    "volume": 1263,
+    "sentiment": {
+      "bullish": 222,
+      "bearish": 121,
+      "neutral": 920
+    },
+    "price": 1969.02
+  },
+  {
+    "timestamp": "2026-02-21 00:00:00",
+    "volume": 1178,
+    "sentiment": {
+      "bullish": 244,
+      "bearish": 58,
+      "neutral": 876
+    },
+    "price": 1973.74
+  },
+  {
+    "timestamp": "2026-02-22 00:00:00",
+    "volume": 1203,
+    "sentiment": {
+      "bullish": 156,
+      "bearish": 110,
+      "neutral": 937
+    },
+    "price": 1957.81
+  },
+  {
+    "timestamp": "2026-02-23 00:00:00",
+    "volume": 1429,
+    "sentiment": {
+      "bullish": 207,
+      "bearish": 159,
+      "neutral": 1063
+    },
+    "price": 1855.5
+  },
+  {
+    "timestamp": "2026-02-24 00:00:00",
+    "volume": 1410,
+    "sentiment": {
+      "bullish": 223,
+      "bearish": 150,
+      "neutral": 1037
+    },
+    "price": 1852.97
+  },
+  {
+    "timestamp": "2026-02-25 00:00:00",
+    "volume": 1860,
+    "sentiment": {
+      "bullish": 665,
+      "bearish": 116,
+      "neutral": 1079
+    },
+    "price": 2054.63
+  },
+  {
+    "timestamp": "2026-02-26 00:00:00",
+    "volume": 1430,
+    "sentiment": {
+      "bullish": 528,
+      "bearish": 135,
+      "neutral": 767
+    },
+    "price": 2026.79
+  },
+  {
+    "timestamp": "2026-02-27 00:00:00",
+    "volume": 1431,
+    "sentiment": {
+      "bullish": 425,
+      "bearish": 259,
+      "neutral": 747
+    },
+    "price": 1930.76
+  },
+  {
+    "timestamp": "2026-02-28 00:00:00",
+    "volume": 1492,
+    "sentiment": {
+      "bullish": 547,
+      "bearish": 180,
+      "neutral": 765
+    },
+    "price": 1965.05
+  },
+  {
+    "timestamp": "2026-03-01 00:00:00",
+    "volume": 1451,
+    "sentiment": {
+      "bullish": 560,
+      "bearish": 151,
+      "neutral": 740
+    },
+    "price": 1939.07
+  },
+  {
+    "timestamp": "2026-03-02 00:00:00",
+    "volume": 1603,
+    "sentiment": {
+      "bullish": 550,
+      "bearish": 241,
+      "neutral": 812
+    },
+    "price": 2027.27
+  },
+  {
+    "timestamp": "2026-03-03 00:00:00",
+    "volume": 1294,
+    "sentiment": {
+      "bullish": 477,
+      "bearish": 159,
+      "neutral": 658
+    },
+    "price": 1982.77
+  },
+  {
+    "timestamp": "2026-03-04 00:00:00",
+    "volume": 1679,
+    "sentiment": {
+      "bullish": 595,
+      "bearish": 223,
+      "neutral": 861
+    },
+    "price": 2126.51
+  },
+  {
+    "timestamp": "2026-03-05 00:00:00",
+    "volume": 1427,
+    "sentiment": {
+      "bullish": 359,
+      "bearish": 181,
+      "neutral": 887
+    },
+    "price": 2071.61
+  },
+  {
+    "timestamp": "2026-03-06 00:00:00",
+    "volume": 1499,
+    "sentiment": {
+      "bullish": 453,
+      "bearish": 178,
+      "neutral": 868
+    },
+    "price": 1978.75
+  },
+  {
+    "timestamp": "2026-03-07 00:00:00",
+    "volume": 1142,
+    "sentiment": {
+      "bullish": 332,
+      "bearish": 145,
+      "neutral": 665
+    },
+    "price": 1969.46
+  },
+  {
+    "timestamp": "2026-03-08 00:00:00",
+    "volume": 1218,
+    "sentiment": {
+      "bullish": 356,
+      "bearish": 187,
+      "neutral": 675
+    },
+    "price": 1936.6
+  },
+  {
+    "timestamp": "2026-03-09 00:00:00",
+    "volume": 1552,
+    "sentiment": {
+      "bullish": 557,
+      "bearish": 136,
+      "neutral": 859
+    },
+    "price": 1992.94
+  },
+  {
+    "timestamp": "2026-03-10 00:00:00",
+    "volume": 1713,
+    "sentiment": {
+      "bullish": 754,
+      "bearish": 162,
+      "neutral": 797
+    },
+    "price": 2037.12
+  },
+  {
+    "timestamp": "2026-03-11 00:00:00",
+    "volume": 1711,
+    "sentiment": {
+      "bullish": 436,
+      "bearish": 228,
+      "neutral": 1047
+    },
+    "price": 2051.57
+  },
+  {
+    "timestamp": "2026-03-12 00:00:00",
+    "volume": 2006,
+    "sentiment": {
+      "bullish": 718,
+      "bearish": 220,
+      "neutral": 1068
+    },
+    "price": 2073.14
+  },
+  {
+    "timestamp": "2026-03-13 00:00:00",
+    "volume": 1495,
+    "sentiment": {
+      "bullish": 482,
+      "bearish": 125,
+      "neutral": 888
+    },
+    "price": 2092.56
+  },
+  {
+    "timestamp": "2026-03-14 00:00:00",
+    "volume": 1428,
+    "sentiment": {
+      "bullish": 448,
+      "bearish": 168,
+      "neutral": 812
+    },
+    "price": 2097.09
+  },
+  {
+    "timestamp": "2026-03-15 00:00:00",
+    "volume": 1711,
+    "sentiment": {
+      "bullish": 685,
+      "bearish": 106,
+      "neutral": 920
+    },
+    "price": 2177.48
+  },
+  {
+    "timestamp": "2026-03-16 00:00:00",
+    "volume": 2781,
+    "sentiment": {
+      "bullish": 809,
+      "bearish": 242,
+      "neutral": 1730
+    },
+    "price": 2351.18
+  },
+  {
+    "timestamp": "2026-03-17 00:00:00",
+    "volume": 1529,
+    "sentiment": {
+      "bullish": 339,
+      "bearish": 152,
+      "neutral": 1038
+    },
+    "price": 2318.05
+  },
+  {
+    "timestamp": "2026-03-18 00:00:00",
+    "volume": 1548,
+    "sentiment": {
+      "bullish": 231,
+      "bearish": 161,
+      "neutral": 1156
+    },
+    "price": 2203.67
+  },
+  {
+    "timestamp": "2026-03-19 00:00:00",
+    "volume": 1285,
+    "sentiment": {
+      "bullish": 220,
+      "bearish": 163,
+      "neutral": 902
+    },
+    "price": 2137.42
+  },
+  {
+    "timestamp": "2026-03-20 00:00:00",
+    "volume": 1520,
+    "sentiment": {
+      "bullish": 219,
+      "bearish": 176,
+      "neutral": 1125
+    },
+    "price": 2146.5
+  },
+  {
+    "timestamp": "2026-03-21 00:00:00",
+    "volume": 1159,
+    "sentiment": {
+      "bullish": 150,
+      "bearish": 70,
+      "neutral": 939
+    },
+    "price": 2076.69
+  },
+  {
+    "timestamp": "2026-03-22 00:00:00",
+    "volume": 1006,
+    "sentiment": {
+      "bullish": 111,
+      "bearish": 138,
+      "neutral": 757
+    },
+    "price": 2053.05
+  },
+  {
+    "timestamp": "2026-03-23 00:00:00",
+    "volume": 1187,
+    "sentiment": {
+      "bullish": 227,
+      "bearish": 96,
+      "neutral": 864
+    },
+    "price": 2152.15
+  },
+  {
+    "timestamp": "2026-03-24 00:00:00",
+    "volume": 1080,
+    "sentiment": {
+      "bullish": 206,
+      "bearish": 110,
+      "neutral": 764
+    },
+    "price": 2155.7
+  },
+  {
+    "timestamp": "2026-03-25 00:00:00",
+    "volume": 1014,
+    "sentiment": {
+      "bullish": 214,
+      "bearish": 75,
+      "neutral": 725
+    },
+    "price": 2168.02
+  },
+  {
+    "timestamp": "2026-03-26 00:00:00",
+    "volume": 1025,
+    "sentiment": {
+      "bullish": 127,
+      "bearish": 116,
+      "neutral": 782
+    },
+    "price": 2059.58
+  },
+  {
+    "timestamp": "2026-03-27 00:00:00",
+    "volume": 1127,
+    "sentiment": {
+      "bullish": 134,
+      "bearish": 165,
+      "neutral": 828
+    },
+    "price": 1991.27
+  },
+  {
+    "timestamp": "2026-03-28 00:00:00",
+    "volume": 930,
+    "sentiment": {
+      "bullish": 214,
+      "bearish": 58,
+      "neutral": 658
+    },
+    "price": 1992.69
+  },
+  {
+    "timestamp": "2026-03-29 00:00:00",
+    "volume": 1032,
+    "sentiment": {
+      "bullish": 141,
+      "bearish": 143,
+      "neutral": 748
+    },
+    "price": 1982.56
+  },
+  {
+    "timestamp": "2026-03-30 00:00:00",
+    "volume": 1301,
+    "sentiment": {
+      "bullish": 289,
+      "bearish": 121,
+      "neutral": 891
+    },
+    "price": 2023.51
+  },
+  {
+    "timestamp": "2026-03-31 00:00:00",
+    "volume": 1285,
+    "sentiment": {
+      "bullish": 215,
+      "bearish": 146,
+      "neutral": 924
+    },
+    "price": 2104.71
+  },
+  {
+    "timestamp": "2026-04-01 00:00:00",
+    "volume": 1200,
+    "sentiment": {
+      "bullish": 223,
+      "bearish": 119,
+      "neutral": 858
+    },
+    "price": 2138.74
+  },
+  {
+    "timestamp": "2026-04-02 00:00:00",
+    "volume": 1151,
+    "sentiment": {
+      "bullish": 127,
+      "bearish": 170,
+      "neutral": 854
+    },
+    "price": 2056.85
+  },
+  {
+    "timestamp": "2026-04-03 00:00:00",
+    "volume": 842,
+    "sentiment": {
+      "bullish": 120,
+      "bearish": 54,
+      "neutral": 668
+    },
+    "price": 2053.39
+  },
+  {
+    "timestamp": "2026-04-04 00:00:00",
+    "volume": 729,
+    "sentiment": {
+      "bullish": 112,
+      "bearish": 52,
+      "neutral": 565
+    },
+    "price": 2065.35
+  },
+  {
+    "timestamp": "2026-04-05 00:00:00",
+    "volume": 883,
+    "sentiment": {
+      "bullish": 120,
+      "bearish": 84,
+      "neutral": 679
+    },
+    "price": 2109.0
+  },
+  {
+    "timestamp": "2026-04-06 00:00:00",
+    "volume": 1079,
+    "sentiment": {
+      "bullish": 178,
+      "bearish": 104,
+      "neutral": 797
+    },
+    "price": 2107.76
+  },
+  {
+    "timestamp": "2026-04-07 00:00:00",
+    "volume": 1015,
+    "sentiment": {
+      "bullish": 162,
+      "bearish": 103,
+      "neutral": 750
+    },
+    "price": 2241.81
+  },
+  {
+    "timestamp": "2026-04-08 00:00:00",
+    "volume": 1042,
+    "sentiment": {
+      "bullish": 184,
+      "bearish": 114,
+      "neutral": 744
+    },
+    "price": 2190.34
+  },
+  {
+    "timestamp": "2026-04-09 00:00:00",
+    "volume": 1051,
+    "sentiment": {
+      "bullish": 207,
+      "bearish": 82,
+      "neutral": 762
+    },
+    "price": 2189.14
+  },
+  {
+    "timestamp": "2026-04-10 00:00:00",
+    "volume": 1021,
+    "sentiment": {
+      "bullish": 233,
+      "bearish": 69,
+      "neutral": 719
+    },
+    "price": 2245.15
+  },
+  {
+    "timestamp": "2026-04-11 00:00:00",
+    "volume": 1012,
+    "sentiment": {
+      "bullish": 171,
+      "bearish": 55,
+      "neutral": 786
+    },
+    "price": 2285.39
+  },
+  {
+    "timestamp": "2026-04-12 00:00:00",
+    "volume": 925,
+    "sentiment": {
+      "bullish": 117,
+      "bearish": 125,
+      "neutral": 683
+    },
+    "price": 2192.2
+  },
+  {
+    "timestamp": "2026-04-13 00:00:00",
+    "volume": 1231,
+    "sentiment": {
+      "bullish": 197,
+      "bearish": 109,
+      "neutral": 925
+    },
+    "price": 2370.71
+  },
+  {
+    "timestamp": "2026-04-14 00:00:00",
+    "volume": 1210,
+    "sentiment": {
+      "bullish": 264,
+      "bearish": 124,
+      "neutral": 822
+    },
+    "price": 2323.31
+  },
+  {
+    "timestamp": "2026-04-15 00:00:00",
+    "volume": 1176,
+    "sentiment": {
+      "bullish": 199,
+      "bearish": 108,
+      "neutral": 869
+    },
+    "price": 2359.44
+  },
+  {
+    "timestamp": "2026-04-16 00:00:00",
+    "volume": 1064,
+    "sentiment": {
+      "bullish": 233,
+      "bearish": 132,
+      "neutral": 699
+    },
+    "price": 2348.65
+  },
+  {
+    "timestamp": "2026-04-17 00:00:00",
+    "volume": 1233,
+    "sentiment": {
+      "bullish": 283,
+      "bearish": 144,
+      "neutral": 806
+    },
+    "price": 2421.07
+  },
+  {
+    "timestamp": "2026-04-18 00:00:00",
+    "volume": 1013,
+    "sentiment": {
+      "bullish": 185,
+      "bearish": 144,
+      "neutral": 684
+    },
+    "price": 2351.1
+  },
+  {
+    "timestamp": "2026-04-19 00:00:00",
+    "volume": 1004,
+    "sentiment": {
+      "bullish": 171,
+      "bearish": 111,
+      "neutral": 722
+    },
+    "price": 2264.92
+  },
+  {
+    "timestamp": "2026-04-20 00:00:00",
+    "volume": 1348,
+    "sentiment": {
+      "bullish": 379,
+      "bearish": 107,
+      "neutral": 862
+    },
+    "price": 2315.21
+  },
+  {
+    "timestamp": "2026-04-21 00:00:00",
+    "volume": 1151,
+    "sentiment": {
+      "bullish": 307,
+      "bearish": 110,
+      "neutral": 734
+    },
+    "price": 2327.97
+  },
+  {
+    "timestamp": "2026-04-22 00:00:00",
+    "volume": 1052,
+    "sentiment": {
+      "bullish": 275,
+      "bearish": 111,
+      "neutral": 666
+    },
+    "price": 2376.09
+  },
+  {
+    "timestamp": "2026-04-23 00:00:00",
+    "volume": 971,
+    "sentiment": {
+      "bullish": 225,
+      "bearish": 204,
+      "neutral": 542
+    },
+    "price": 2331.51
+  },
+  {
+    "timestamp": "2026-04-24 00:00:00",
+    "volume": 956,
+    "sentiment": {
+      "bullish": 202,
+      "bearish": 124,
+      "neutral": 630
+    },
+    "price": 2315.69
+  },
+  {
+    "timestamp": "2026-04-25 00:00:00",
+    "volume": 793,
+    "sentiment": {
+      "bullish": 144,
+      "bearish": 100,
+      "neutral": 549
+    },
+    "price": 2318.83
+  },
+  {
+    "timestamp": "2026-04-26 00:00:00",
+    "volume": 953,
+    "sentiment": {
+      "bullish": 279,
+      "bearish": 98,
+      "neutral": 576
+    },
+    "price": 2369.73
+  },
+  {
+    "timestamp": "2026-04-27 00:00:00",
+    "volume": 978,
+    "sentiment": {
+      "bullish": 183,
+      "bearish": 149,
+      "neutral": 646
+    },
+    "price": 2303.06
+  },
+  {
+    "timestamp": "2026-04-28 00:00:00",
+    "volume": 823,
+    "sentiment": {
+      "bullish": 140,
+      "bearish": 121,
+      "neutral": 562
+    },
+    "price": 2289.42
+  },
+  {
+    "timestamp": "2026-04-29 00:00:00",
+    "volume": 1067,
+    "sentiment": {
+      "bullish": 361,
+      "bearish": 149,
+      "neutral": 557
+    },
+    "price": 2253.42
+  },
+  {
+    "timestamp": "2026-04-30 00:00:00",
+    "volume": 788,
+    "sentiment": {
+      "bullish": 203,
+      "bearish": 124,
+      "neutral": 461
+    },
+    "price": 2256.25
+  },
+  {
+    "timestamp": "2026-05-01 00:00:00",
+    "volume": 775,
+    "sentiment": {
+      "bullish": 246,
+      "bearish": 88,
+      "neutral": 441
+    },
+    "price": 2295.09
+  },
+  {
+    "timestamp": "2026-05-02 00:00:00",
+    "volume": 724,
+    "sentiment": {
+      "bullish": 192,
+      "bearish": 117,
+      "neutral": 415
+    },
+    "price": 2316.23
+  },
+  {
+    "timestamp": "2026-05-03 00:00:00",
+    "volume": 889,
+    "sentiment": {
+      "bullish": 322,
+      "bearish": 109,
+      "neutral": 458
+    },
+    "price": 2321.64
+  },
+  {
+    "timestamp": "2026-05-04 00:00:00",
+    "volume": 909,
+    "sentiment": {
+      "bullish": 284,
+      "bearish": 117,
+      "neutral": 508
+    },
+    "price": 2346.4
+  },
+  {
+    "timestamp": "2026-05-05 00:00:00",
+    "volume": 953,
+    "sentiment": {
+      "bullish": 298,
+      "bearish": 188,
+      "neutral": 467
+    },
+    "price": 2361.18
+  },
+  {
+    "timestamp": "2026-05-06 00:00:00",
+    "volume": 1022,
+    "sentiment": {
+      "bullish": 251,
+      "bearish": 254,
+      "neutral": 517
+    },
+    "price": 2350.8
+  },
+  {
+    "timestamp": "2026-05-07 00:00:00",
+    "volume": 765,
+    "sentiment": {
+      "bullish": 88,
+      "bearish": 224,
+      "neutral": 453
+    },
+    "price": 2291.11
+  },
+  {
+    "timestamp": "2026-05-08 00:00:00",
+    "volume": 65,
+    "sentiment": {
+      "bullish": 5,
+      "bearish": 29,
+      "neutral": 31
+    },
+    "price": 2284.8
+  }
+]
