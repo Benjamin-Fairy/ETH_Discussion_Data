@@ -1,0 +1,38 @@
+name: Auto Screenshot Dashboard
+
+on:
+  workflow_run:
+    workflows: ["ETH Sentiment Data Automation"]
+    types: [completed]
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  take-screenshot:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Screenshot Tool
+        run: npm install -g pageres-cli
+
+      - name: Take Screenshot
+        run: |
+          sleep 30 
+          pageres https://benjamin-fairy.github.io/ETH_Discussion_Data/ 1200x800 --filename=docs/preview --overwrite
+
+      - name: Commit and Push Screenshot
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/preview.png
+          git commit -m "chore: update dashboard screenshot [skip ci]" || echo "No changes"
+          git push
