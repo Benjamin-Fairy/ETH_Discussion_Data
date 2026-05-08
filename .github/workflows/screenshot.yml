@@ -46,7 +46,7 @@ jobs:
             await new Promise(r => setTimeout(r, 2000));
             
             console.log('Taking screenshot...');
-            await page.screenshot({ path: 'docs/preview.png' });
+            await page.screenshot({ path: 'docs/preview.png', fullPage: true });
             await browser.close();
             console.log('Screenshot saved successfully!');
           })();
