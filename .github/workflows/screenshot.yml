@@ -21,13 +21,34 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Screenshot Tool
-        run: npm install -g pageres-cli
+      - name: Install Puppeteer
+        run: npm install puppeteer
 
       - name: Take Screenshot
         run: |
-          sleep 30 
-          pageres https://benjamin-fairy.github.io/ETH_Discussion_Data/ 1200x800 --filename=docs/preview --overwrite
+          cat << 'EOF' > screenshot.js
+          const puppeteer = require('puppeteer');
+          (async () => {
+            console.log('Launching browser without sandbox...');
+            const browser = await puppeteer.launch({ 
+              args: ['--no-sandbox', '--disable-setuid-sandbox']
+            });
+            const page = await browser.newPage();
+            await page.setViewport({ width: 1200, height: 800 });
+            
+            console.log('Navigating to dashboard...');
+            await page.goto('https://benjamin-fairy.github.io/ETH_Discussion_Data/', { waitUntil: 'networkidle0' });
+            
+            console.log('Waiting for ECharts animations...');
+            await new Promise(r => setTimeout(r, 2000));
+            
+            console.log('Taking screenshot...');
+            await page.screenshot({ path: 'docs/preview.png' });
+            await browser.close();
+            console.log('Screenshot saved successfully!');
+          })();
+          EOF
+          node screenshot.js
 
       - name: Commit and Push Screenshot
         run: |
