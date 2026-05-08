@@ -8,6 +8,9 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   take-screenshot:
     runs-on: ubuntu-latest
