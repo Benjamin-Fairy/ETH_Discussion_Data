@@ -1841,12 +1841,12 @@
   },
   {
     "timestamp": "2026-05-14 00:00:00",
-    "volume": 356,
+    "volume": 518,
     "sentiment": {
-      "bullish": 107,
-      "bearish": 75,
-      "neutral": 174
+      "bullish": 177,
+      "bearish": 105,
+      "neutral": 236
     },
-    "price": 2280.87
+    "price": 2302.43
   }
 ]
