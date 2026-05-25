@@ -1951,12 +1951,12 @@
   },
   {
     "timestamp": "2026-05-25 00:00:00",
-    "volume": 594,
+    "volume": 819,
     "sentiment": {
-      "bullish": 114,
-      "bearish": 67,
-      "neutral": 413
+      "bullish": 159,
+      "bearish": 81,
+      "neutral": 579
     },
-    "price": 2124.84
+    "price": 2119.68
   }
 ]
