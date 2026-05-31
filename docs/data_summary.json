@@ -2007,6 +2007,16 @@
       "bearish": 120,
       "neutral": 679
     },
-    "price": null
+    "price": 2019.46
+  },
+  {
+    "timestamp": "2026-05-31 00:00:00",
+    "volume": 172,
+    "sentiment": {
+      "bullish": 16,
+      "bearish": 16,
+      "neutral": 140
+    },
+    "price": 2023.21
   }
 ]
