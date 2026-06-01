@@ -484313,5 +484313,246 @@
     "replyUsers": null,
     "replyUserCount": null,
     "isShowMore": false
+  },
+  {
+    "tradingPairs": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "klineChartDataPointList": null,
+        "eventEndTime": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null
+      }
+    ],
+    "coinPairList": null,
+    "tradingPairsV2": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM",
+          "CONVERT"
+        ],
+        "preferredMarkets": null,
+        "futuresSymbol": "ETHUSDT",
+        "price": "1980.19",
+        "priceRaw": "1980.19",
+        "priceChange": "-2.14",
+        "priceChangeChart": [
+          {
+            "value": 2020.5,
+            "dateTime": 1780235999999
+          },
+          {
+            "value": 2008.06,
+            "dateTime": 1780239599999
+          },
+          {
+            "value": 2010.52,
+            "dateTime": 1780243199999
+          },
+          {
+            "value": 2002.09,
+            "dateTime": 1780246799999
+          },
+          {
+            "value": 2006.0,
+            "dateTime": 1780250399999
+          },
+          {
+            "value": 2000.68,
+            "dateTime": 1780253999999
+          },
+          {
+            "value": 1999.59,
+            "dateTime": 1780257599999
+          },
+          {
+            "value": 2007.09,
+            "dateTime": 1780261199999
+          },
+          {
+            "value": 2012.18,
+            "dateTime": 1780264799999
+          },
+          {
+            "value": 2012.43,
+            "dateTime": 1780268399999
+          },
+          {
+            "value": 2007.01,
+            "dateTime": 1780271999999
+          },
+          {
+            "value": 2015.44,
+            "dateTime": 1780275599999
+          },
+          {
+            "value": 1994.7,
+            "dateTime": 1780279199999
+          },
+          {
+            "value": 2011.47,
+            "dateTime": 1780282799999
+          },
+          {
+            "value": 2009.09,
+            "dateTime": 1780286399999
+          },
+          {
+            "value": 1999.99,
+            "dateTime": 1780289999999
+          },
+          {
+            "value": 1994.55,
+            "dateTime": 1780293599999
+          },
+          {
+            "value": 1988.07,
+            "dateTime": 1780297199999
+          },
+          {
+            "value": 1976.43,
+            "dateTime": 1780300799999
+          },
+          {
+            "value": 1983.96,
+            "dateTime": 1780304399999
+          },
+          {
+            "value": 1987.53,
+            "dateTime": 1780307999999
+          },
+          {
+            "value": 1984.49,
+            "dateTime": 1780311599999
+          },
+          {
+            "value": 1981.44,
+            "dateTime": 1780315199999
+          },
+          {
+            "value": 1980.22,
+            "dateTime": 1780318799999
+          }
+        ],
+        "tokenLatestInfo": null,
+        "airdropEventEndTime": null,
+        "relatedEarnProduct": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null
+      }
+    ],
+    "userInputTradingPairs": [],
+    "tradeWidgets": null,
+    "aiGeneratedQuestion": null,
+    "web3TokenInfo": null,
+    "id": "329289838677441",
+    "cardType": "BUZZ_SHORT",
+    "contentType": 1,
+    "title": null,
+    "subTitle": null,
+    "date": 1780284227,
+    "handWork": null,
+    "contentStatus": 2,
+    "needTranslate": false,
+    "needAutoTranslate": true,
+    "isFeatured": false,
+    "topFlagInHashtagDetailPage": false,
+    "topFlagForProjectLatestContent": false,
+    "translatedData": null,
+    "redEnvelop": null,
+    "isAssociateRedEnvelop": false,
+    "portfolioPerformance": null,
+    "shareTrading": null,
+    "tradingSignal": null,
+    "isStickyToTop": false,
+    "badgeInfos": null,
+    "hyperlinkList": null,
+    "extraFeature": "NO_FEATURE",
+    "quoteContent": null,
+    "detectedLanguage": "en",
+    "partnerLabel": null,
+    "hotComment": null,
+    "hotComments": null,
+    "holdDays": null,
+    "commentHint": null,
+    "listCoinPollVO": null,
+    "tradingPosition": null,
+    "isCreatedByAI": false,
+    "aiSummary": null,
+    "coinPairBridge": "USDT",
+    "liveStrategy": null,
+    "replyCount": 0,
+    "predictionMarket": null,
+    "factCheckResultFail": null,
+    "displayLabel": null,
+    "content": "ETH/USDT: Market Update\n\nETH has experienced a minor decline of -0.91% in the last 24 hours, with a high of 2036.88 USDT and a low of 1991.31 USDT. Trading volume remains moderate at 215096. The current price stands at 2015.84 USDT. Market sentiment is cautiously neutral, with investors awaiting key developments in the Ethereum ecosystem. #Crypto #ETH #Binance",
+    "images": [],
+    "likeCount": 0,
+    "shareCount": 0,
+    "viewCount": 15,
+    "commentCount": 0,
+    "quoteCount": 0,
+    "hashtagList": [
+      "#Crypto ",
+      "#ETH ",
+      "#Binance "
+    ],
+    "hashtagIdentifyList": [],
+    "sourceType": 5,
+    "tendency": 0,
+    "imageMetaList": [],
+    "coverMeta": null,
+    "totalReactionCount": 0,
+    "reactionCount": [
+      {
+        "reactionType": 1,
+        "count": 0
+      },
+      {
+        "reactionType": 2,
+        "count": 0
+      },
+      {
+        "reactionType": 3,
+        "count": 0
+      },
+      {
+        "reactionType": 4,
+        "count": 0
+      },
+      {
+        "reactionType": 5,
+        "count": 0
+      }
+    ],
+    "liveStatusVO": null,
+    "quoteCommentVO": null,
+    "previewSpaceLive": null,
+    "isReplyPost": false,
+    "replyUsers": null,
+    "replyUserCount": null,
+    "isShowMore": false
   }
 ]
