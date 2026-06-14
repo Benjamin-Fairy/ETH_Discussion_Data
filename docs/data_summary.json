@@ -2147,7 +2147,7 @@
       "bearish": 69,
       "neutral": 648
     },
-    "price": null
+    "price": 1680.21
   },
   {
     "timestamp": "2026-06-14 00:00:00",
@@ -2157,6 +2157,6 @@
       "bearish": 2,
       "neutral": 13
     },
-    "price": 1675.56
+    "price": 1675.62
   }
 ]
