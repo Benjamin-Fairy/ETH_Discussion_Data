@@ -2261,12 +2261,22 @@
   },
   {
     "timestamp": "2026-06-25 00:00:00",
-    "volume": 1362,
+    "volume": 1366,
     "sentiment": {
-      "bullish": 252,
-      "bearish": 155,
-      "neutral": 955
+      "bullish": 253,
+      "bearish": 156,
+      "neutral": 957
     },
-    "price": null
+    "price": 1564.82
+  },
+  {
+    "timestamp": "2026-06-26 00:00:00",
+    "volume": 346,
+    "sentiment": {
+      "bullish": 53,
+      "bearish": 60,
+      "neutral": 233
+    },
+    "price": 1550.43
   }
 ]
