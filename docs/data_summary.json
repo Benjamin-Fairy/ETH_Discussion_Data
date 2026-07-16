@@ -2471,12 +2471,12 @@
   },
   {
     "timestamp": "2026-07-16 00:00:00",
-    "volume": 410,
+    "volume": 619,
     "sentiment": {
-      "bullish": 43,
-      "bearish": 24,
-      "neutral": 343
+      "bullish": 62,
+      "bearish": 43,
+      "neutral": 514
     },
-    "price": 1881.44
+    "price": 1887.05
   }
 ]
