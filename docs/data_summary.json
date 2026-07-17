@@ -2471,11 +2471,11 @@
   },
   {
     "timestamp": "2026-07-16 00:00:00",
-    "volume": 1221,
+    "volume": 1302,
     "sentiment": {
-      "bullish": 123,
-      "bearish": 84,
-      "neutral": 1014
+      "bullish": 127,
+      "bearish": 94,
+      "neutral": 1081
     },
     "price": null
   }
