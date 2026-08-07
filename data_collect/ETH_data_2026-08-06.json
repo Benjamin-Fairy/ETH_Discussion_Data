@@ -236486,5 +236486,427 @@
     ],
     "liveStatusVO": null,
     "newsFeatured": false
+  },
+  {
+    "tradingPairs": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "klineChartDataPointList": null,
+        "eventEndTime": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "supportStock": false,
+        "supportEtf": false,
+        "assetCode": null,
+        "name": "Ethereum"
+      }
+    ],
+    "coinPairList": [
+      "$ETH "
+    ],
+    "tradingPairsV2": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM",
+          "CONVERT"
+        ],
+        "preferredMarkets": null,
+        "futuresSymbol": "ETHUSDT",
+        "price": "1903.19",
+        "priceRaw": "1903.19",
+        "priceChange": "-0.40",
+        "priceChangeChart": null,
+        "tokenLatestInfo": null,
+        "airdropEventEndTime": null,
+        "relatedEarnProduct": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "assetCode": null,
+        "stockCode": ""
+      }
+    ],
+    "userInputTradingPairs": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM",
+          "CONVERT"
+        ],
+        "preferredMarkets": null,
+        "futuresSymbol": "ETHUSDT",
+        "price": "1903.19",
+        "priceRaw": "1903.19",
+        "priceChange": "-0.40",
+        "priceChangeChart": null,
+        "tokenLatestInfo": null,
+        "airdropEventEndTime": null,
+        "relatedEarnProduct": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "assetCode": null,
+        "stockCode": ""
+      }
+    ],
+    "tradeWidgets": null,
+    "aiGeneratedQuestion": null,
+    "web3TokenInfo": null,
+    "layoutType": null,
+    "id": "352966672715089",
+    "cardType": "BUZZ_SHORT",
+    "contentType": 1,
+    "title": null,
+    "subTitle": null,
+    "date": 1786064704,
+    "handWork": null,
+    "contentStatus": 2,
+    "needTranslate": false,
+    "needAutoTranslate": true,
+    "isFeatured": false,
+    "topFlagInHashtagDetailPage": false,
+    "topFlagForProjectLatestContent": false,
+    "translatedData": null,
+    "redEnvelop": null,
+    "isAssociateRedEnvelop": false,
+    "portfolioPerformance": null,
+    "shareTrading": {
+      "dailyPNL": null,
+      "thirtyDayPNL": null,
+      "assetDistribution": null,
+      "tradePNL": null,
+      "assetsChange": null,
+      "assetDistributionV2": null,
+      "spotTrading": null,
+      "futuresTrading": {
+        "id": "ETHUSDT-1786064226657",
+        "quoteAsset": "USDT",
+        "baseAsset": "ETH",
+        "symbol": "ETHUSDT",
+        "deepLink": "bnc://app.binance.com/markets/marketsDetail?at=futures&symbol=ethusdt",
+        "tradeDeepLink": "bnc://app.binance.com/markets/marketsDetail?at=futures&symbol=ethusdt",
+        "tradeWebLink": "/futures/ETHUSDT",
+        "dataType": null,
+        "dataTypeVal": null,
+        "businessKey": null,
+        "showAmount": false,
+        "isShowPNL": true,
+        "isPin": false,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM"
+        ],
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "positionSide": "LONG",
+        "contractType": "PERPETUAL",
+        "contractTime": "",
+        "pnl": "0.01",
+        "returnRate": "0.01",
+        "entryPrice": "1902.44",
+        "markPrice": "1903.46",
+        "closePrice": "",
+        "leverage": 20,
+        "recordType": 1,
+        "futureType": "FUTURES_UM",
+        "time": 0,
+        "hashCode": -432000773,
+        "originalSymbol": "ETHUSDT",
+        "positionCreateTime": 1786064226657,
+        "positionAmount": "0.014",
+        "initialMargin": "1.33",
+        "positionSize": "26.65",
+        "tradeExtA": null,
+        "tradeExtB": null,
+        "klines": [
+          {
+            "value": "1900.28468217",
+            "time": 1786060800000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1901.07334109",
+            "time": 1786061700000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1902.82400000",
+            "time": 1786062600000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1902.94000000",
+            "time": 1786063500000,
+            "buy": true,
+            "sell": false
+          },
+          {
+            "value": "1902.65000000",
+            "time": 1786064400000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1904.44213178",
+            "time": 1786065300000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1901.28071318",
+            "time": 1786066200000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1902.46670543",
+            "time": 1786067100000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1901.92000000",
+            "time": 1786068000000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1899.57034884",
+            "time": 1786068900000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1901.77000000",
+            "time": 1786069800000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1901.78598450",
+            "time": 1786070700000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1900.13790698",
+            "time": 1786071600000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1899.32000000",
+            "time": 1786072500000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1899.05000000",
+            "time": 1786073400000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1896.52000000",
+            "time": 1786074300000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1897.93208527",
+            "time": 1786075200000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1898.41351644",
+            "time": 1786076100000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1897.52000000",
+            "time": 1786077000000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1896.49000000",
+            "time": 1786077900000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1896.95058915",
+            "time": 1786078800000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1895.48754264",
+            "time": 1786079700000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1897.20000000",
+            "time": 1786080600000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1900.89823256",
+            "time": 1786081500000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1903.32000000",
+            "time": 1786082400000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1905.00000000",
+            "time": 1786083300000,
+            "buy": false,
+            "sell": false
+          },
+          {
+            "value": "1905.23827907",
+            "time": 1786084200000,
+            "buy": false,
+            "sell": false
+          }
+        ],
+        "versionCode": "3.18.4",
+        "isFromHolding": false,
+        "cmQuoteAsset": null,
+        "newVersionPositionCardWithPnlControl": true,
+        "displayMode": 0,
+        "marginRatio": null,
+        "liquidationPrice": "1794.00",
+        "realizedPnl": null,
+        "closingPnl": null,
+        "fundingFee": null,
+        "tradingFee": null,
+        "insuranceClearFee": null,
+        "displayPnlBreakdown": false,
+        "isLiquidated": false
+      },
+      "spotTradeMarking": null,
+      "futureTradeMarking": null,
+      "multiDayPNL": null,
+      "spotPosition": null,
+      "spotOrder": null,
+      "futureOrder": null,
+      "alphaRecord": null,
+      "convertRecord": null
+    },
+    "tradingSignal": null,
+    "isStickyToTop": false,
+    "badgeInfos": null,
+    "hyperlinkList": null,
+    "extraFeature": "SHARE_TRADING_FUTURES_TRADING",
+    "quoteContent": null,
+    "detectedLanguage": "en",
+    "partnerLabel": null,
+    "hotComment": null,
+    "hotComments": null,
+    "holdDays": null,
+    "commentHint": null,
+    "listCoinPollVO": null,
+    "contentPoll": null,
+    "tradingPosition": null,
+    "tradeTag": null,
+    "isCreatedByAI": false,
+    "aiSummary": null,
+    "coinPairBridge": "USDT",
+    "liveStrategy": null,
+    "replyCount": 0,
+    "predictionMarket": null,
+    "factCheckResultFail": null,
+    "factCheckStatus": null,
+    "displayLabel": null,
+    "content": "$ETH look at this 👌👇trad with me#ETHETFsApproved #ETH #Ethereum ",
+    "images": [],
+    "likeCount": 0,
+    "shareCount": 0,
+    "viewCount": 12,
+    "commentCount": 0,
+    "quoteCount": 0,
+    "hashtagList": [
+      "#ETHETFsApproved ",
+      "#ETH ",
+      "#Ethereum "
+    ],
+    "hashtagIdentifyList": [],
+    "sourceType": 5,
+    "tendency": 0,
+    "imageMetaList": [],
+    "coverMeta": null,
+    "totalReactionCount": 0,
+    "reactionCount": [
+      {
+        "reactionType": 1,
+        "count": 0
+      },
+      {
+        "reactionType": 2,
+        "count": 0
+      },
+      {
+        "reactionType": 3,
+        "count": 0
+      },
+      {
+        "reactionType": 4,
+        "count": 0
+      },
+      {
+        "reactionType": 5,
+        "count": 0
+      }
+    ],
+    "liveStatusVO": null,
+    "quoteCommentVO": null,
+    "previewSpaceLive": null,
+    "isReplyPost": false,
+    "replyUsers": null,
+    "replyUserCount": null,
+    "isShowMore": false
   }
 ]
