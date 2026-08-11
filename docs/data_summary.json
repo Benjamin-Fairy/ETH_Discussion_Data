@@ -2721,11 +2721,11 @@
   },
   {
     "timestamp": "2026-08-10 00:00:00",
-    "volume": 944,
+    "volume": 1027,
     "sentiment": {
-      "bullish": 54,
-      "bearish": 44,
-      "neutral": 846
+      "bullish": 55,
+      "bearish": 45,
+      "neutral": 927
     },
     "price": null
   }
