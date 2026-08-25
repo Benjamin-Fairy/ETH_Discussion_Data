@@ -2871,12 +2871,12 @@
   },
   {
     "timestamp": "2026-08-25 00:00:00",
-    "volume": 732,
+    "volume": 810,
     "sentiment": {
-      "bullish": 79,
-      "bearish": 25,
-      "neutral": 628
+      "bullish": 87,
+      "bearish": 30,
+      "neutral": 693
     },
-    "price": 2467.14
+    "price": 2448.62
   }
 ]
