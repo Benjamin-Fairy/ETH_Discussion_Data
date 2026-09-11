@@ -3037,6 +3037,16 @@
       "bearish": 65,
       "neutral": 890
     },
-    "price": null
+    "price": 2437.1
+  },
+  {
+    "timestamp": "2026-09-11 00:00:00",
+    "volume": 333,
+    "sentiment": {
+      "bullish": 31,
+      "bearish": 15,
+      "neutral": 287
+    },
+    "price": 2457.57
   }
 ]
