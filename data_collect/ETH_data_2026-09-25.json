@@ -268524,5 +268524,251 @@
     "replyUsers": null,
     "replyUserCount": null,
     "isShowMore": false
+  },
+  {
+    "tradingPairs": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "futuresSymbol": null,
+        "priceChange": null,
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "klineChartDataPointList": null,
+        "eventEndTime": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "supportStock": false,
+        "supportEtf": false,
+        "assetCode": null,
+        "name": "Ethereum"
+      }
+    ],
+    "coinPairList": [
+      "$ETH "
+    ],
+    "tradingPairsV2": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM",
+          "CONVERT"
+        ],
+        "preferredMarkets": null,
+        "futuresSymbol": "ETHUSDT",
+        "spotSymbol": null,
+        "price": "2690.64",
+        "priceRaw": "2690.64",
+        "priceChange": "-1.18",
+        "priceChangeChart": null,
+        "tokenLatestInfo": null,
+        "airdropEventEndTime": null,
+        "relatedEarnProduct": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "assetCode": null,
+        "stockCode": ""
+      }
+    ],
+    "userInputTradingPairs": [
+      {
+        "market": "SPOT",
+        "bridge": "USDT",
+        "code": "ETH",
+        "symbol": "ETHUSDT",
+        "logoUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "marketV2": "SPOT",
+        "discussNumbers": null,
+        "supportedMarkets": [
+          "SPOT",
+          "FUTURES_UM",
+          "CONVERT"
+        ],
+        "preferredMarkets": null,
+        "futuresSymbol": "ETHUSDT",
+        "spotSymbol": null,
+        "price": "2690.64",
+        "priceRaw": "2690.64",
+        "priceChange": "-1.18",
+        "priceChangeChart": null,
+        "tokenLatestInfo": null,
+        "airdropEventEndTime": null,
+        "relatedEarnProduct": null,
+        "megadropProjectId": null,
+        "alphaId": null,
+        "chainId": null,
+        "contractAddress": null,
+        "chainLogo": null,
+        "chainName": null,
+        "assetCode": null,
+        "stockCode": ""
+      }
+    ],
+    "tradeWidgets": [
+      {
+        "coin": "ETH",
+        "stockCode": null,
+        "logoUrl": null,
+        "bridge": "USDT",
+        "type": "future",
+        "price": null,
+        "priceRaw": null,
+        "priceChange": null,
+        "priceChangeChart": null,
+        "needRemove": false,
+        "alphaId": null,
+        "chainId": "",
+        "contractAddress": "",
+        "chainLogo": null,
+        "chainName": null,
+        "marketCap": null,
+        "alphaWeb3IosLink": null,
+        "alphaWeb3AndroidLink": null,
+        "marketTokenId": null,
+        "assetCode": null,
+        "name": null,
+        "supportedMarkets": null
+      }
+    ],
+    "aiGeneratedQuestion": null,
+    "web3TokenInfo": null,
+    "layoutType": null,
+    "id": "370707853107794",
+    "cardType": "BUZZ_SHORT",
+    "contentType": 1,
+    "title": null,
+    "subTitle": null,
+    "date": 1790396046,
+    "handWork": null,
+    "contentStatus": 2,
+    "needTranslate": true,
+    "needAutoTranslate": true,
+    "isFeatured": false,
+    "topFlagInHashtagDetailPage": false,
+    "topFlagForProjectLatestContent": false,
+    "translatedData": {
+      "title": null,
+      "subTitle": null,
+      "content": "🚀 $ETH  Bullish momentum is strengthening!\n\nEthereum is currently showing strong upward momentum, with buying power steadily returning.📈🔥\n\nIf ETH can hold key support and break above the nearby resistance level, further upside may follow.\n\n👀 Keep a close eye on price action and changes in trading volume!\n\n#ETH  #Ethereum  \n #看涨  #加密货币  #交易 \n{future}(ETHUSDT)",
+      "body": null,
+      "summary": null,
+      "processedBody": null,
+      "bodyTextMap": null,
+      "bodyScriptStr": null,
+      "bodyTextOnly": null,
+      "userBiography": null
+    },
+    "redEnvelop": null,
+    "isAssociateRedEnvelop": false,
+    "portfolioPerformance": null,
+    "shareTrading": null,
+    "tradingSignal": null,
+    "isStickyToTop": false,
+    "badgeInfos": null,
+    "hyperlinkList": null,
+    "extraFeature": "NO_FEATURE",
+    "quoteContent": null,
+    "detectedLanguage": "zh-CN",
+    "partnerLabel": null,
+    "hotComment": null,
+    "hotComments": null,
+    "holdDays": null,
+    "commentHint": null,
+    "listCoinPollVO": null,
+    "contentPoll": null,
+    "tradingPosition": null,
+    "tradeTag": null,
+    "coinLabel": null,
+    "isCreatedByAI": false,
+    "aiSummary": null,
+    "coinPairBridge": "USDT",
+    "liveStrategy": null,
+    "replyCount": 0,
+    "predictionMarket": null,
+    "strategyCard": null,
+    "factCheckResultFail": null,
+    "factCheckStatus": null,
+    "displayLabel": null,
+    "content": "🚀 $ETH  看涨动能正在增强！\n\n以太坊目前展现出较强的上涨动能，买方力量持续回归。📈🔥\n\n如果 ETH 能稳住关键支撑并突破附近阻力位，后续可能迎来进一步上涨。\n\n👀 密切关注价格走势和成交量变化！\n\n#ETH  #Ethereum  \n #看涨  #加密货币  #交易 \n{future}(ETHUSDT)",
+    "images": [
+      "https://public.bnbstatic.com/static/content/square/images/4b9bafb072dc4697aa131ac0081f55ed.png"
+    ],
+    "likeCount": 0,
+    "shareCount": 0,
+    "viewCount": 117,
+    "commentCount": 0,
+    "quoteCount": 0,
+    "hashtagList": [
+      "#交易 ",
+      "#加密货币 ",
+      "#看涨 ",
+      "#ETH ",
+      "#Ethereum "
+    ],
+    "hashtagIdentifyList": [],
+    "sourceType": 5,
+    "tendency": 1,
+    "imageMetaList": [
+      {
+        "url": "https://public.bnbstatic.com/static/content/square/images/4b9bafb072dc4697aa131ac0081f55ed.png",
+        "width": 719,
+        "height": 1066,
+        "source": "USER_UPLOADED",
+        "sourcePage": "discover",
+        "id": null,
+        "hashCode": null,
+        "stickerSource": null,
+        "stickerAssetId": null
+      }
+    ],
+    "coverMeta": null,
+    "totalReactionCount": 0,
+    "reactionCount": [
+      {
+        "reactionType": 1,
+        "count": 0
+      },
+      {
+        "reactionType": 2,
+        "count": 0
+      },
+      {
+        "reactionType": 3,
+        "count": 0
+      },
+      {
+        "reactionType": 4,
+        "count": 0
+      },
+      {
+        "reactionType": 5,
+        "count": 0
+      }
+    ],
+    "liveStatusVO": null,
+    "quoteCommentVO": null,
+    "previewSpaceLive": null,
+    "isReplyPost": false,
+    "replyUsers": null,
+    "replyUserCount": null,
+    "isShowMore": false
   }
 ]
