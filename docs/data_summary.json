@@ -3668,5 +3668,15 @@
       "neutral": 1103
     },
     "price": 2016.83
+  },
+  {
+    "timestamp": "2026-11-13 00:00:00",
+    "volume": 490,
+    "sentiment": {
+      "bullish": 14,
+      "bearish": 15,
+      "neutral": 461
+    },
+    "price": 1956.1
   }
 ]
